@@ -1,7 +1,7 @@
 # Big_Data_Challenge
 
 The data is available via the Google Colaboratory notebook named
-BigDataChallenge. The schema used to create the SQL tables in PG Admin are
+[BigDataChallenge](https://colab.research.google.com/drive/1JdPW5cmjWKVwqJTM11Gh0FOxn6_u8M8K?usp=sharing). The schema used to create the SQL tables in PG Admin are
 provided in this repository. I have also included the summary on this document.
 
 
